@@ -1,7 +1,24 @@
+body {
+    
+    font-family:sans-serif;
+}
+
+
+
+
 #shape {
                 
                 height:200px;
                 width:200px;
                 background-color:red;
                 display:none;
+                position: relative;
+                top:100px;
+                left:200px;
+                
+}
+
+.bold {
+    
+    font-weight:bold;
 }
